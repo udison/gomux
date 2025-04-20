@@ -1,0 +1,10 @@
+> session_name
+cwd ~/Dev/golang/gomux/
+
+[window_name]
+- cmd_1
+- cmd_2
+
+[window_name]
+- cmd_1
+- cmd_2

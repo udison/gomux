@@ -1,0 +1,17 @@
+> manybrew
+cwd ~/Dev/react/manybrew
+
+[nvim]
+- nvim
+
+[]
+[app]
+- pnpm run dev
+
+> gomux
+cwd ~/Dev/golang/gomux/
+
+[nvim]
+- nvim
+
+[]
